@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/dhrubokarmaker/Desktop/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/Users/dhrubokarmaker/Desktop/chatbot/model.tflearn"

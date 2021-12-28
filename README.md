@@ -1,2 +1,2 @@
 # RoeBot
-A Discord bot implemented using Deep Neural Network and Natural Language Processing.
+A Discord chatbot implemented using Deep Neural Network and Natural Language Processing.

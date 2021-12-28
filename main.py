@@ -5,9 +5,6 @@ from tensorflow.python.ops.gen_array_ops import expand_dims_eager_fallback
 
 stemmer = LancasterStemmer()
 
-
-
-
 import numpy
 import tflearn
 import random
@@ -19,8 +16,6 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
-
 
 with open("intents.json") as file:
     data = json.load(file)
